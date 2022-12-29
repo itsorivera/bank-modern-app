@@ -1,0 +1,2 @@
+/* onClick={() => setToggle(!toggle)} */
+onClick={() => setToggle((prev) => !prev)}

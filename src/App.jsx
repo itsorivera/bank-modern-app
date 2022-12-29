@@ -13,9 +13,6 @@ const App = () =>(
         <div className={`${styles.boxWidth}`}>
           <Hero />
         </div>
-        <button className="bg-indigo-500">
-          Botoncico
-        </button>
       </div>
 
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
